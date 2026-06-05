@@ -8,7 +8,7 @@
     "url": "https://supabase.com"
   },
   "homepage": "https://supabase.com",
-  "repository": "https://github.com/supabase-community/codex-plugin",
+  "repository": "https://github.com/supabase-community/supabase-plugin",
   "license": "MIT",
   "keywords": [
     "supabase",
